@@ -16,5 +16,5 @@ const routes = require("./routes/htmlroutes.js");
 routes(app);
 
 app.listen(PORT, function() {
-    console.log("App listening on PORT and so is yo mama!!!" + PORT);
+    console.log("App listening on PORT " + PORT + " and so is yo mama!!!");
   });
