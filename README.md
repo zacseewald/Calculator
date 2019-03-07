@@ -2,7 +2,7 @@
 
 *I forked this from my old repo and refactored it with better styling and more functionality.*
 
-### [View App](https://cryptic-brushlands-31769.herokuapp.com/)
+### [View App](https://zax-calculator.herokuapp.com/)
 
 The purpose of this app is practicing a short build from start to finish in one sitting. 
 
